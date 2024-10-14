@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "1.0.0",
-  "description": "Calculator",
+  "description": "Simple Calculator Application",
   "repository": {
     "type": "git",
     "url": "https://github.com/azure-pipelines-samples/node.js"
@@ -27,10 +27,10 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.7.3",
     "mocha-junit-reporter": "^1.18.0",
     "mocha-multi-reporters": "^1.1.7",
-    "nyc": "^13.3.0",
+    "nyc": "^17.1.0",
     "supertest": "^3.4.2"
   }
 }
